@@ -1,0 +1,13 @@
+1,:kimyaz,:Malaysian Ringgit,:20.00MYR,:South Korean,:5857.80Won
+1,:kimyaz,:South Korean,:30.00Won,:Japanese,:3.15Yen
+5,:zairi,:Thai Baht,:60.00THB,:Malaysian Ringgit,:7.45MYR
+5,:zairi,:United State Dollar,:36.00USD,:Japanese,:4806.78Yen
+2,:aiman,:Indonesian Rupiah,:90.00IDR,:Singapore ,:0.01SGD
+2,:aiman,:Indonesian Rupiah,:330000.00IDR,:Singapore ,:36.24SGD
+2,:aiman,:United State Dollar,:80.00USD,:Singapore ,:128.70SGD
+3,:imran,:Turkish Lira,:906.00TRY,:Malaysian Ringgit,:235.94MYR
+3,:imran,:Saudi Riyal,:96.00SAR,:Indonesian Rupiah,:380477.36IDR
+6,:zul,:United Arab Emirates Dirham,:60.00AED,:Malaysian Ringgit,:72.29MYR
+4,:Wizxrd,:Vietnamese Dong,:90.00VND,:Malaysian Ringgit,:0.02MYR
+4,:Wizxrd,:Russian Ruble,:6300.00RUB,:Malaysian Ringgit,:511.78MYR
+1,:kimyaz,:South Korean,:300.00Won,:Malaysian Ringgit,:1.02MYR

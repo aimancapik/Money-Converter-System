@@ -1,0 +1,14 @@
+1,:Malaysian Ringgit,:MYR,:1.00
+2,:South Korean,:Won,:292.89
+3,:Japanese,:Yen,:30.71
+4,:United State Dollar,:USD,:0.23
+5,:Singapore ,:SGD,:0.37
+6,:Indonesian Rupiah,:IDR,:3368.81
+7,:Thai Baht,:THB,:8.05
+8,:United Arab Emirates Dirham,:AED,:0.83
+9,:Turkish Lira,:TRY,:3.84
+10,:Vietnamese Dong,:VND,:5282.15
+11,:Russian Ruble,:RUB,:12.31
+12,:Saudi Riyal,:SAR,:0.85
+13,:Chinese Yuan,:CNY,:1.52
+14,:Brunei Dollar,:BND,:0.32
